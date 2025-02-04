@@ -40,11 +40,8 @@ ContentLabel.Text = [[
 
 当前版本：v0.5.1
 更新内容：
-1. 新增了通用，以及巴掌战斗的脚本
-2. 添加公告（没错是你现在看到的这个）
-
-注意事项：
-• 有些脚本可能失效了，以后会修改（懒
+1. 新增了doors的脚本
+2. 添加公告了许多国人脚本在通用里
 ]]  -- 在此修改预设内容
 ContentLabel.Font = Enum.Font.GothamMedium
 ContentLabel.TextColor3 = Color3.fromRGB(200, 200, 200)
